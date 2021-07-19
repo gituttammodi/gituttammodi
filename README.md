@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, Python development.
 - 🌱 I’m currently learning DSA and ML
 - 💞️ I’m looking to collaborate on DSA
-- 📫 How to reach me uttam3179@gmail.com or https://www.linkedin.com/in/uttammodi/
+- 📫 How to reach me email: uttam3179@gmail.com or https://www.linkedin.com/in/uttammodi/
 
 
 <!---
